@@ -22,7 +22,7 @@ Achieved a **top score of 1,203 cycles** (Rank #91) in the Kernel Optimization C
 ## 🌐 Languages
 
 ![Korean](https://img.shields.io/badge/Korean-NATIVE-blue)
-![English](https://img.shields.io/badge/English-FLUENT-blue)
+![English](https://img.shields.io/badge/English-NATIVE-blue)
 ![Chinese](https://img.shields.io/badge/Chinese-INTERMEDIATE-yellow)
 ![German](https://img.shields.io/badge/German-BEGINNER-orange)
 
