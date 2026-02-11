@@ -14,7 +14,10 @@
 
 ![Kernel Optimization Showcase](./kernel_1203.png)
 
-Achieved a **top score of 1,203 cycles** (Rank #91) in the Kernel Optimization Challenge, successfully beating the recruiting threshold and Claude!
+Achieved a **top score of 1,203 cycles** (Rank #91) in the Kernel Optimization Challenge.
+
+![Beat Recruiting Threshold](https://img.shields.io/badge/Beat_Recruiting_Threshold-Success-brightgreen?style=for-the-badge&logo=check)
+![Beat Claude](https://img.shields.io/badge/Beat_Claude-Success-blueviolet?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## 🌐 Languages
 
