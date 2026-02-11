@@ -26,8 +26,3 @@ Achieved a **top score of 1,203 cycles** (Rank #91) in the Kernel Optimization C
 ![Chinese](https://img.shields.io/badge/Chinese-INTERMEDIATE-yellow)
 ![German](https://img.shields.io/badge/German-BEGINNER-orange)
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunjoocho99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjoocho99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
