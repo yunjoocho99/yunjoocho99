@@ -5,3 +5,7 @@
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![SimaPro](https://img.shields.io/badge/SimaPro-009639?style=for-the-badge&logo=probot&logoColor=white)
